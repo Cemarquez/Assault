@@ -1,0 +1,9 @@
+name: Assault
+description: Destroy other's beds with bedwars reloaded
+author: Yannici
+main: assault.main.Assault
+version: 1.1
+commands:
+    team:
+      description: mem.
+      usage: /<command> [args]
