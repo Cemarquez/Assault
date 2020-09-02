@@ -1,0 +1,50 @@
+Nombre de la modalidad: Asalto.
+
+Equipos: 2
+Cantidad de Jugadores: 32 (16 en cada equipo)
+
+El modo de juego trata de que un equipo (El atacante) tratará de realizar ciertos objetivos con un máximo número de respawn... (60 veces para que el equipo pueda hacer un respawn).
+Cada muerte del equipo atacante le bajará la cantidad de spawn disponible. Cuando la cantidad de spawneos llegue a 0 el equipo defensor ganara.
+
+Los objetivos se dividirán en 3 fases. (Capturar una zona, avanzar hasta cierto punto del mapa, encontrar un objeto. [El orden de los objetivos no es necesario y pueden repetirse).
+Cuando se realicen todos los objetivos, el equipo atacante será el ganador. Cada vez que se termine con éxito cada fase, el equipo atacante sumara 25 a su contador de respawn sin sobrepasar el límite de 60.
+
+Los defensores tendrán que hacer lo posible para que los atacantes no puedan cumplir los objetivos, para ello estos tendrán un respawn infinito, pero su zona de spawneo será un poco alejada de los objetivos.
+Cada vez que pierdan una fase su spawn retrocederá hasta otro punto de control (Y el spawneo del equipo atacante avanzará). Si no logran detener a los atacantes perderán automáticamente.
+
+(Los mapas en sí tendrán que ser amplios, para que haya una buena jugabilidad y se puedan realizar bien los objetivos)
+
+Ambos equipos tendrán una posibilidad de elegir los kits para poder jugar. Estos se dividen en 4 principales y en otros adicionales.
+
+Asalto: Armadura de cota de malla, velocidad 1, 64 bloques de madera refinada, espada de hierro, 20 manzanas. (Este kit es para aquellos que quieren moverse rápido por el mapa y atacar los flancos).
+
+Pesado: Armadura de Hierro, hacha de diamante, 32 bloques madera sin refinar, lentitud 1, 20 manzanas y 1 manzana dorada. (Este kit es el tanque, para los que quieren defender a sus compañeros de una mejor forma).
+
+Arquero: Armadura de cuero, espada de piedra, una poción de velocidad 1 e invisibilidad 1, Arco encantado: infinidad 1 y poder 2, 32 bloques de madera refinada, 20 manzanas. (Este kit es para aquellos que les gusta atacar desde la lejanía y ser sigilosos).
+
+Soporte: Armadura de cuero, hacha de hierro, 3 pociones arrojadizas de regeneración y 3 pociones arrojadizas vida instantánea, 2 manzanas doradas y 64 bloques de madera refinada. (Este kit es para la gente que quiere apoyar a sus compañeros, dándoles salud en pelea o curarse a si mismos).
+
+En lo que transcurre la pelea, los usuarios ganaran puntos de batalla. Para que puedan mejorar sus cosas o comprar items para la pelea... E incluso elegir kits especiales.
+
+Kits especiales:
+
+Ejecutor (Costo 500 Battle Points) : Armadura de hierro (Encantada con protección 1), espada de diamante, 64 bloques de madera refinada, un arco junto a 64 flechas y 5 manzanas doradas.
+
+Héroe (Costo 1000 Battle Points) : Armadura de hierro (Encantada con protección 3), espada de diamante filo 1, 64 bloques de madera refinada, arco de poder 1 junto a 128 flechas y 12 manzanas doradas.
+
+Leyenda (Costo 2000 Battle Points) : Armadura de hierro (Encantada con protección 3 y pechera de diamante de protección 2), espada de diamante filo 2, 64 bloques de madera sin refinar, arco de poder 2 e irrompibilidad 3 junto a 64 flechas, y 6 , manzanas doradas junto a una poción de fuerza.
+
+(Desde este punto se podrían añadir más Kits, pero eso se podría hacer luego si es que la modalidad es aceptada por la comunidad.
+
+La Tienda: Esta tendrá que contener items de utilidad para la batalla, tales como bloques, flechas, pociones, comida y mejoras para el armamento.
+
+La selección de equipos: Esta será al azar, los usuarios con rango VIP y superior, podrán elegir el bando que quieran.
+
+En los mapas, los usuarios no tendrán permitido entrar a las zonas de spawneo del equipo contrario. Con una distancia de al menos 15 bloques.
+
+Creo que con todo esto sería suficiente, pero si llega a ser aceptada se podría ampliar las características para este juego. En sí, podría llegar a ser una modalidad entretenida y competitiva.
+
+Ideas creativas adicionales: Para los mapas, la comunidad podría realizar sus propios mapas con temáticas variadas. Pero lo importante es que sean grandes y tengan al menos 6 zonas de spawneo (1 principal para los atacantes y defensor, y otras 2 para cuando los equipos avancen y/o retrocedan).
+Se puede implementar un top al finalizar las partidas o en el lobby. (Mayor cantidad de asesinatos, partidas ganadas, y niveles).
+
+(Por último: esta modalidad es inspirada por aquellos juegos de conquista. Donde tienen que capturar los puntos para avanzar. Mayormente está inspirado en el modo "Asalto galáctico" del juego Battlefront II).
